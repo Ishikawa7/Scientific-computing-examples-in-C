@@ -2,5 +2,5 @@
 Scientific computing examples in C
 
 - Genetic algorithm
-- SOM
+- SOM (Self Organizing Maps)
 - Simulated annealing
